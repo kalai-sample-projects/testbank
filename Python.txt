@@ -1,2 +1,1 @@
 This is phyton text file.
-adding a new line.
